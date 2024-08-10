@@ -1,5 +1,5 @@
 services :
   web :
-     image : chauhanrajat/note-app:latest
+     image : chauhanrajat/note-app-jenkins:latest
      ports :
          - "8000:8000"
